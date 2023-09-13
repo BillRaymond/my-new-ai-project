@@ -7,8 +7,8 @@ ARG PYVER="3.11"
 # Define GitHub settings
 # If you use GitHub, GitLab, or a similar service
 # you might want to use the same username and email
-ARG GITUN="Change Me"
-ARG GITEMAIL="change.me@changeme.somedomain"
+ARG GITUN="Bill Raymond"
+ARG GITEMAIL="bill.raymond@cambermast.com"
 
 # These settings prevent a timezone prompt when Python installs
 # Use this article to find your time zone (TZ):
